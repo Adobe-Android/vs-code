@@ -87,6 +87,12 @@
   - Extension Pack for Java
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+  - Spring Boot Extension Pack
+    - **Author: VMware**
+    - https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack
+  - Community Server Connectors
+    - **Author: Red Hat**
+    - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector
 
 #### Cloud:
   - Azure Account

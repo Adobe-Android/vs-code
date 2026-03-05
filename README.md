@@ -5,39 +5,25 @@
   - Sublime Text Keymap (For Sublime converts) 
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
-  - Bracket Pair Colorizer 2
-    - **Author: CoenraadS**
-    - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
-  - indent-rainbow
-    - **Author: oderwat**
-    - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-  - Material Icon Theme 
-    - **Author: Philipp Kief**
-    - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-  - Live Server
-    - **Author: Ritwick Dey**
-    - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-  - Version Lens
-    - **Author: pflannery**
-    - https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
-  - Image preview
-    - **Author: Kiss Tamás**
-    - https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
-
-#### HTML:
-  - highlight-matching-tag
-      - **Author: vincaslt**
-      - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+  - Live Preview
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
+  - GitLens
+    - **Author: GitKraken**
+    - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 #### XML:
   - XML
       - **Author: Red Hat**
       - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
-  - XML Tools
-      - **Author: Josh Johnson**
-      - https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml
 
-#### SQLite:
+#### SQL:
+  - Oracle SQL Developer Extension for VSCode
+      - **Author: Oracle Corporation**
+      - https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer
+  - SQL Server (mssql)
+      - **Author: Microsoft**
+      - https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer
   - SQLite
       - **Author: alexcvzz**
       - https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
@@ -49,39 +35,27 @@
       
 #### JavaScript/TypeScript:
   - ESLint
-    - **Author: Dirk Baeumer**
-    - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - TSLint
     - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
-  - Import Cost
-    - **Author: Wix**
-    - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-    
+    - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 #### Python:
   - Python
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.python
+  - Python Debugger
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy
+  - Pylance
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+  - Python Environments
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs
 
 #### C#:
-  - C#
+  - C# Dev Kit
     - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
-  - C# Extensions
-    - **Author: jchannon**
-    - https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions
-  - .NET Core Tools
-    - **Author: Jun Han**
-    - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
-  - .NET Core Test Explorer
-    - **Author: Jun Han**
-    - https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer
-  - Dotnet Core Essentials
-    - **Author: Kishore Ithadi**
-    - https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials
-  - C# XML Documentation Comments
-    - **Author: Keisuke Kato**
-    - https://marketplace.visualstudio.com/items?itemName=k--kato.docomment
+    - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
 
 #### C/C++:
   - C/C++ Extension Pack
@@ -89,25 +63,15 @@
     - https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
     
     Includes:
-    C/C++,
-    C/C++ Themes,
-    CMake,
-    CMake Tools,
-    Remote Development Extension Pack,
-    GitHub Pull Requests and Issues,
-    Visual Studio Codespaces,
-    LiveShare Extension Pack,
-    Doxygen Documentation Generator,
-    Better C++ Syntax
+      - C/C++
+      - C/C++ Themes
+      - C/C++ DevTools
+      - CMake Tools
 
-  - Clang-Tidy
-    - **Author: notskm**
-    - https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy
-
-#### Arduino:
-  - Arduino
-    - **Author: Microsoft**
-    - https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+#### Embedded/Arduino:
+  - PlatformIO IDE
+    - **Author: PlatformIO**
+    - https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
 #### Hex (immature but interesting):
   - HexEditor
@@ -120,23 +84,9 @@
     - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
 
 #### Java:
-  - Java Extension Pack 
+  - Extension Pack for Java
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
-
-#### Rust (support is still largely immature in VS Code):
-  - Rust
-    - **Author: kalitaalexey**
-    - https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust
-  - Rust (rls)
-    - **Author: rust-lang**
-    - https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
-  - Better TOML
-    - **Author: bungcip**
-    - https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
-  - crates
-    - **Author: Seray Uzgur**
-    - https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 
 #### Cloud:
   - Azure Account

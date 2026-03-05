@@ -1,0 +1,13 @@
+{
+    // Restrict allowed publishers for better security.
+    "extensions.allowed": {
+        "microsoft": true,
+        "github": true,
+        "oracle": true,
+        "redhat": true,
+        "vmware": true,
+        "SonarSource": true,
+        "eamodio.gitlens": true
+    },
+    "redhat.telemetry.enabled": false
+}

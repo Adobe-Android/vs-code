@@ -7,7 +7,17 @@
         "redhat": true,
         "vmware": true,
         "SonarSource": true,
-        "eamodio.gitlens": true
+        "eamodio.gitlens": true,
+        "RooVeterinaryInc.roo-cline": true,
+        "DavidAnson.vscode-markdownlint": true
     },
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "workbench.colorTheme": "Dark Modern",
+    "roo-cline.debug": false,
+    "roo-cline.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "roo-cline.deniedCommands": [],
 }

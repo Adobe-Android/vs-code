@@ -12,6 +12,11 @@
     - **Author: GitKraken**
     - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
+#### AI:
+  - Roo Code
+      - **Author: RooVeterinaryInc**
+      - https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline
+
 #### XML:
   - XML
       - **Author: Red Hat**
@@ -51,6 +56,9 @@
   - Python Environments
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs
+  - FastAPI Extension
+    - **Author: FastAPILabs**
+    - https://marketplace.visualstudio.com/items?itemName=FastAPILabs.fastapi-vscode
 
 #### C#:
   - C# Dev Kit
@@ -67,6 +75,11 @@
       - C/C++ Themes
       - C/C++ DevTools
       - CMake Tools
+
+#### Markdown
+  - markdownlint
+    - **Author: DavidAnson**
+    - https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 
 #### Embedded/Arduino:
   - PlatformIO IDE

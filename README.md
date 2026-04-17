@@ -56,6 +56,12 @@
   - Python Environments
     - **Author: Microsoft**
     - https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs
+  - isort
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-python.isort
+  - Jupyter
+    - **Author: Microsoft**
+    - https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
   - FastAPI Extension
     - **Author: FastAPILabs**
     - https://marketplace.visualstudio.com/items?itemName=FastAPILabs.fastapi-vscode

@@ -9,7 +9,8 @@
         "SonarSource": true,
         "eamodio.gitlens": true,
         "RooVeterinaryInc.roo-cline": true,
-        "DavidAnson.vscode-markdownlint": true
+        "DavidAnson.vscode-markdownlint": true,
+        "FastAPILabs.fastapi-vscode": true
     },
     "redhat.telemetry.enabled": false,
     "workbench.colorTheme": "Dark Modern",
@@ -20,4 +21,6 @@
         "git show"
     ],
     "roo-cline.deniedCommands": [],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.useEnvironmentsExtension": true
 }
